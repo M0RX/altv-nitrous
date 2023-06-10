@@ -6,7 +6,7 @@
 Run this command to run the server in development mode.
 This repository was created with the help of https://github.com/Stuyk/altv-typescript
 
-Big shoutout to @Stuyk  for creating this boilerplate.
+Big shoutout to @Stuyk(https://github.com/Stuyk/)  for creating this boilerplate.
 
 This will automatically reconnect your alt:V Client if you have `debug` mode turned on.
 
